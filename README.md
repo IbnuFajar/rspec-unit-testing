@@ -1,5 +1,10 @@
 # rspec-unit-testing
 
+Install ruby first.
+then install rspec.
+
+$ gem install rspec
+
 enter directory and call
 
-"rspec spec/lib/kucing_spec.rb"
+"spec/lib/kucing_spec.rb"
